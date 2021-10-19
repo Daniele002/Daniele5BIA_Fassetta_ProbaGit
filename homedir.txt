@@ -1,0 +1,19 @@
+.eclipse
+.git
+.VirtualBox
+AppData
+Collegamenti
+Contatti
+Desktop
+Documenti
+Download
+Immagini
+Musica
+Oggetti 3D
+OneDrive
+Partire salvate
+Preferiti
+Ricerche
+Video
+workspace
+NTUSER.DAT
